@@ -8,7 +8,7 @@ The first project includes code for classification using the following classifie
 -	Least-Squares Classifier
 -	Gradient Descent with sigmoid function
 
-### **Project2 **
+### **Project2**
 
 The second project includes code for clustering, specifically:
 -	k-means using Euclidean distance. Initialization of k center randomly from the dataset
